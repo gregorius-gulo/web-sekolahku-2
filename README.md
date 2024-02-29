@@ -1,4 +1,4 @@
-Ini adalah proyek website saya untuk Sekolah Menengah Kejuruan (SMK) Negeri 2 Mandrehe. Website ini dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) V.
+Ini adalah proyek website Sekolah saya SMK Negeri 2 Mandrehe. Website ini dibuat sebagai syarat dari Ujian Akhir Semester (UAS) V.
 
 *Fitur Utama*
 • Membuat (Create), Membaca (Read), Memperbarui (Update), dan Menghapus (Delete) data.
@@ -7,10 +7,11 @@ Ini adalah proyek website saya untuk Sekolah Menengah Kejuruan (SMK) Negeri 2 Ma
 • Tampilan responsif dan menarik dengan menggunakan Bootstrap CSS Framework.
 
 *Cara Menggunakan:*
-1. Pastikan telah menginstal server PHP dan MySQL di komputer Anda.
-2. Impor database yang disediakan ke MySQL.
-3. Jalankan aplikasi di server lokal Anda.
-4. Akses website melalui browser Anda.
+1. Pastikan telah menginstal server web lokal atau XAMPP komputer Anda.
+2. Salin folder website ke dalam direktori htdocs di dalam instalasi XAMPP.
+3. Impor database sekolahku.sql yang saya sediakan di folder database.
+4. Jalankan aplikasi di server lokal Anda.
+5. Akses website melalui browser Anda.
 
 *Kontribusi*
 
@@ -18,7 +19,7 @@ Saya sangat terbuka untuk kontribusi dan masukan. Jika Anda ingin berkontribusi 
 
 *Catatan*
 
-Proyek ini dibuat untuk tujuan pembelajaran dan Pengembangan. Harap gunakan dengan bijak.
+Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan. Harap gunakan dengan bijak.
 
 *Lisensi*
 
