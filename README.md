@@ -1,5 +1,4 @@
-Sekolah SMK Negeri 2 Mandrehe
-Ini adalah proyek website untuk Sekolah Menengah Kejuruan (SMK) Negeri 2 Mandrehe. Website ini dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) V.
+Ini adalah proyek website saya untuk Sekolah Menengah Kejuruan (SMK) Negeri 2 Mandrehe. Website ini dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) V.
 
 Fitur Utama
 • Membuat (Create), Membaca (Read), Memperbarui (Update), dan Menghapus (Delete) data.
