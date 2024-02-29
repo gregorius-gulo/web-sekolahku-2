@@ -13,9 +13,11 @@ Cara Menggunakan:
 4. Akses website melalui browser Anda.
 
 Kontribusi
+
 Saya sangat terbuka untuk kontribusi dan masukan. Jika Anda ingin berkontribusi pada pengembangan proyek ini, silakan buat pull request atau hubungi saya.
 
 Catatan
+
 Proyek ini dibuat untuk tujuan pembelajaran dan tidak untuk produksi langsung. Gunakan dengan bijak.
 
 Lisensi
