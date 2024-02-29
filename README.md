@@ -18,7 +18,7 @@ Saya sangat terbuka untuk kontribusi dan masukan. Jika Anda ingin berkontribusi 
 
 *Catatan*
 
-Proyek ini dibuat untuk tujuan pembelajaran dan tidak untuk produksi langsung. Gunakan dengan bijak.
+Proyek ini dibuat untuk tujuan pembelajaran dan Pengembangan. Harap gunakan dengan bijak.
 
 *Lisensi*
 
