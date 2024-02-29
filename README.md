@@ -1,4 +1,4 @@
-Ini adalah proyek website Sekolah saya SMK Negeri 2 Mandrehe. Website ini dibuat sebagai syarat dari Ujian Akhir Semester (UAS) V.
+Ini adalah proyek website sekolah saya dengan topik SMK Negeri 2 Mandrehe. Website ini dibuat sebagai syarat dari Ujian Akhir Semester (UAS) V.
 
 *Fitur Utama*
 • Membuat (Create), Membaca (Read), Memperbarui (Update), dan Menghapus (Delete) data.
@@ -24,6 +24,8 @@ Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan. Harap gunakan deng
 *Lisensi*
 
 Proyek ini dilisensikan di bawah MIT License.
+
+Terima kasih😊
 
 
 
