@@ -7,7 +7,7 @@ Ini adalah proyek website sekolah saya dengan topik SMK Negeri 2 Mandrehe. Websi
 • Tampilan responsif dan menarik dengan menggunakan Bootstrap CSS Framework.
 
 *Cara Menggunakan:*
-1. Pastikan telah menginstal server web lokal atau XAMPP komputer Anda.
+1. Pastikan telah menginstal server web lokal atau XAMPP di komputer Anda.
 2. Salin folder website ke dalam direktori htdocs di dalam instalasi XAMPP.
 3. Impor database sekolahku.sql yang saya sediakan di folder database.
 4. Jalankan aplikasi di server lokal Anda.
